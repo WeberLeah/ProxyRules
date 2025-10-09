@@ -2,4 +2,4 @@ payload:
   - DOMAIN,www.inoreader.com
   - DOMAIN,nssurge.com
   - DOMAIN,raw.githubusercontent.com
-  - DOMAIN,hub.docker.com
+  - DOMAIN,registry-1.docker.io
