@@ -4,3 +4,4 @@ payload:
   - DOMAIN,github.com
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,registry-1.docker.io
+  - DOMAIN,production.cloudflare.docker.com
