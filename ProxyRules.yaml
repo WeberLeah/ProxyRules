@@ -7,3 +7,4 @@ payload:
   - DOMAIN,production.cloudflare.docker.com
   - DOMAIN,www.v2ex.com
   - DOMAIN,5f236t3.flownets.xyz
+  - DOMAIN,www.cloudflare.com
