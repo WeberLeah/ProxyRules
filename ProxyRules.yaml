@@ -7,3 +7,4 @@ payload:
   - DOMAIN,production.cloudflare.docker.com
   - DOMAIN,www.v2ex.com
   - DOMAIN,www.cloudflare.com
+  - DOMAIN,trakt.tv
