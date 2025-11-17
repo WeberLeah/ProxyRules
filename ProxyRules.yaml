@@ -6,6 +6,5 @@ payload:
   - DOMAIN,registry-1.docker.io
   - DOMAIN,production.cloudflare.docker.com
   - DOMAIN,www.v2ex.com
-  - DOMAIN,www.cloudflare.com
-  - DOMAIN,dash.cloudflare.com
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN,trakt.tv
