@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN,trakt.tv
   - DOMAIN,kzz.moe
+  - DOMAIN,kxx.moe
