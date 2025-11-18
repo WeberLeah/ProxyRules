@@ -8,3 +8,4 @@ payload:
   - DOMAIN,www.v2ex.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN,trakt.tv
+  - DOMAIN,kzz.moe
