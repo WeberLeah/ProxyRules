@@ -5,7 +5,7 @@ payload:
   - DOMAIN,github.com
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,registry-1.docker.io
-  - DOMAIN,production.cloudflare.docker.com
+  - DOMAIN-SUFFIX,docker.com
   - DOMAIN,www.v2ex.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN,trakt.tv
