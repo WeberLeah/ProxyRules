@@ -2,7 +2,7 @@ payload:
   - DOMAIN,www.inoreader.com
   - DOMAIN,nssurge.com
   - DOMAIN,kb.nssurge.com
-  - DOMAIN,github.com
+  - DOMAIN-SUFFIX,github.com
   - DOMAIN,raw.githubusercontent.com
   - DOMAIN,registry-1.docker.io
   - DOMAIN-SUFFIX,docker.com
