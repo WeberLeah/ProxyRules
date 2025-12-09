@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN,www.v2ex.com
   - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN,trakt.tv
+  - DOMAIN-SUFFIX,trakt.tv
   - DOMAIN,kzz.moe
   - DOMAIN,kxx.moe
   - DOMAIN,hanime1.me
